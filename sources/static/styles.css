@@ -1,0 +1,10 @@
+a {
+    text-decoration:none;
+}
+.card {
+    border-radius: 20px;
+}
+html, body
+{
+    height: 100vh;
+}
